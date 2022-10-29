@@ -4,7 +4,7 @@
 <h2>2)Como executar o pojeto:</h2> Primeiro execute o servidor e depois o cliente para executar as operações.
 <h2>3) Decisões do projeto:</h2><list></list>Depois que o usuário digitar os algarismos, eles serão verificados, analisando possíveis erros. 
   </br>Caso estes sejam  encontrados, o usuário será notificado;
-  </br>Caso não sejam econtrados erros, os dados dos algarismos serão enviados para o servidor para diagnóstico. Se for uma expressão ela será calculada no Servidor e irá conceder uma respostas no Cliente; se for o termo "sair", a calculadora será finalizada.
+  </br>Caso não sejam econtrados erros, os dados dos algarismos serão enviados para o servidor para diagnóstico. Se for uma expressão, ela será calculada no Servidor e irá conceder uma resposta no Cliente; se for o termo "sair", a calculadora será finalizada.
  <h2>4)Operações que podem ser feitas:</h2>Soma(+);
  </br>Subtração(-);
  </br>Multiplicação(*);
